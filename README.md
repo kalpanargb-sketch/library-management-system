@@ -1,2 +1,5 @@
 # library-management-system
-java
+Language: Java
+database: MYSQL
+Framework: jdbc for database connection
+
