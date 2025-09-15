@@ -1,6 +1,6 @@
 # library-management-system
 
-Language: Python
+Language: java
 
 database: MYSQL
 
