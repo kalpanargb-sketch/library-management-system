@@ -1,8 +1,13 @@
 # library-management-system
 
-Language: Java
+Language: Python
 
 database: MYSQL
 
-Framework: JDBC for database connection
+Framework: Django
+
+IDE: VSCode
+
+version control: Git & GitHub
+
 
